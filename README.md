@@ -1,4 +1,4 @@
 # cypress-automation
 Learning about cypress
 
-Ali ali skidai xu, hora sathi, o1
+Ali ali skidai xu, hora sathi, o2
